@@ -1,0 +1,7 @@
+node_modules
+artifacts
+cache
+build
+.env*
+package-lock.json
+.prettierrc
